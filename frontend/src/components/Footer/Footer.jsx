@@ -8,8 +8,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
             <img src={assets.logo} alt="" />
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-            <div className="footer-social-icons">
+            <p>TOMATO is a project created with passion and dedication by Nishant, a BTech 4th year student at DTU College. This food ordering platform was built to provide users with a seamless and enjoyable experience, combining the power of modern web technologies. Special thanks to the DTU community and all those who supported the development of this website. Your feedback and support are highly valued as we continue to improve and grow TOMATO. Thank you for being a part of this journey.</p>
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
                 <img src={assets.linkedin_icon} alt="" />
